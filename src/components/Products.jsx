@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { getAllProducts } from "../features/products/productsSlice";
 
+
 import Product from "./Product";
 
 const Products = () => {
@@ -9,6 +10,9 @@ const Products = () => {
   useEffect(() => {
     dispatch(getAllProducts());
   }, []);
+
+
+  
 
   const { products } = useSelector((state) => state.products);
   return (
