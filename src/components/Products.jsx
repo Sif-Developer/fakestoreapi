@@ -13,9 +13,10 @@ const Products = () => {
   const { products } = useSelector((state) => state.products);
   return (
     <div>
-      <h1>Products</h1>
+      <h1 style={{textAlign: 'center'}}>Products</h1>
       {products?.map((product) => (
         <Product product={product} key={product.id} />
+        
       ))}
     </div>
   );
