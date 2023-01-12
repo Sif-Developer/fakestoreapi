@@ -1,0 +1,17 @@
+.small-table {
+    font-size: 12px;
+  }
+  
+  .small-table td,
+  .small-table th {
+    padding: 4px 8px;
+  }
+  .small-image {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .small-table .ant-table-cell {
+    padding: 4px 8px;
+  }
+  

@@ -1,15 +1,13 @@
-# 💻 MERN SOCIAL NETWORK APP
+# 💻 MVP FAKESTOREAPI E_COMMERCE
 
-The main objective of this project is to build a social network with the MERN stack. 
 
 ## 🔧 Built with....
 
-MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack:
 
-- MongoDB - document database
-- Express(.js) - Node.js web framework
+
+- FakeStoreApi - https://fakestoreapi.com/
 - React(.js) - a client-side JavaScript framework
-- Node(.js) - the premier JavaScript web server
+
 
 ## 🚀 Getting Started - Installation
 
@@ -35,34 +33,19 @@ npm run dev or npm run start
 
 | Achievements                                      |
 | ------------------------------------------------- |
-| User Login                                        |
-| User Register                                     |              
-| User can make posts                               |    
-| User can delete posts                             |                           
-| User can like/dislike posts                       |
-| User Profile: user can see their posts            |
-| Animated Navbar                                   |
+|                                   |
+|                                     |              
 
-## 📱 Social Media Preview
 
-### 1. Register
+##  FakeStoreApi MVP Preview
+
+### 1. Products Preview
 
 ![foto](./src/assets/images/Register.png.png)
 
-### 2. Login
+### 2. Pagination
+![foto](./src/assets/images/Register.png.png)
 
-![foto](./src/assets/images/login.png.png)
-
-### 3. Profile
-
-![foto](./src/assets/images/profile.png)
-
-### 4. Home page with posts
-
-![foto](./src/assets/images/Home.png)
-
-### 5. Navbar Animation
-<img src="./src/assets/images/Navbar.gif" alt="navbar animation gif" >
 
 ## 🧑‍💼 Author
 
