@@ -26,10 +26,10 @@ npm run dev or npm run start
 
 ## 🏆 Project Achievements
 
-| Achievements          |
-| ----------------------|
-|Show listed products   |
-|Pagination             |              
+|       Achievements        |
+  | ----------------------|
+  |Show listed products   |
+  |Pagination             |              
 
 
 ##  FakeStoreApi MVP Preview
