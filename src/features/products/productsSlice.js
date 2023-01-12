@@ -3,7 +3,6 @@ import productsService from "./productsService";
 
 const initialState = {
   products: [],
-  page: 1
 };
 
 export const getAllProducts = createAsyncThunk(
@@ -22,7 +21,6 @@ export const productsSlice = createSlice({
   initialState,
   reducers: {
     reset: (state)=>{
-      state.page = 1
     }
   },
   extraReducers: (builder) => {
